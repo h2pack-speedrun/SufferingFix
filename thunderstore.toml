@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-SufferingFix"
+name = "SufferingFix"
 versionNumber = "1.0.0"
 description = "Fixes Suffering on Sight not bypassing Wards vow when dealing damage."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-SufferingFix"
